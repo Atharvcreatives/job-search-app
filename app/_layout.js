@@ -1,7 +1,7 @@
 import {stack} from 'expo-router';
 
 const Layout = () => {
-  return <Stack/> ;
+  return <stack/> ;
 }
 
 export default Layout;
